@@ -1,6 +1,9 @@
-- 👋 Hi, I’m @rizkyy14
+# Hi there, I'm Muhammad Rizky Ramadhan 👋
 
-<!---
-rizkyy14/rizkyy14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Student of Information Management at Politeknik Negeri Medan 🎓
+
+### 🐧 Linux Environment
+![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white) 
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+> "I use Arch, btw!" 🚀
